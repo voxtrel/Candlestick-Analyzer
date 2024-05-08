@@ -1,0 +1,10 @@
+Z:\Project1_last\bin\Debug\Project1.exe.config
+Z:\Project1_last\bin\Debug\Project1.exe
+Z:\Project1_last\bin\Debug\Project1.pdb
+Z:\Project1_last\obj\Debug\Project1.csproj.AssemblyReference.cache
+Z:\Project1_last\obj\Debug\Project1.Form_StockViewer.resources
+Z:\Project1_last\obj\Debug\Project1.Properties.Resources.resources
+Z:\Project1_last\obj\Debug\Project1.csproj.GenerateResource.cache
+Z:\Project1_last\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+Z:\Project1_last\obj\Debug\Project1.exe
+Z:\Project1_last\obj\Debug\Project1.pdb
